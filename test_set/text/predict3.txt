@@ -1,0 +1,21 @@
+Vendor: Dog Company
+Address: 123 Main Street, City, Country
+Phone: +123456789
+Email: info@example.com
+Invoice Number: INV-099
+Date: April 16, 2024
+Due Date: May 16, 2024
+
+Description               Qty     Unit Price     Total
+-------------------------------------------------------
+Product 1                 2       $10.00         $20.00
+Product 2                 1       $15.00         $15.00
+
+Subtotal:                                   $35.00
+Tax (5%):                                   $1.75
+-----------------------------------------------
+Total:                                      $36.75
+
+Payment Terms: Please make payment by the due date.
+
+Thank you for your business!
